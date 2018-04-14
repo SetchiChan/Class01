@@ -21,6 +21,7 @@ public class PnNumber2{
   }
 }
 
+//--INPUT EXAMPLES--
 int number;
 System.out.println("Please input an interger");
 BufferReader br = new BufferedReader(new InputStreamReader(System.in);
