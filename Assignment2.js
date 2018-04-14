@@ -21,3 +21,17 @@ public class PnNumber2{
   }
 }
 
+int number;
+System.out.println("Please input an interger");
+BufferReader br = new BufferedReader(new InputStreamReader(System.in);
+                                     
+//For integer Inputs                                     
+number = Integer.parseInt(br.readLine()); 
+
+//For String Inputs
+String name;
+name = br.readLine(); 
+
+//For double inputs
+Double num;
+num = Double.parseDouble(br.readLine());
