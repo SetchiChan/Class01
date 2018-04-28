@@ -14,13 +14,14 @@ public class counting {
 public class counting {
 	public static void main(String[] args){
 	
-	for(int i = 0; i < 8; i++){
-	System.out.println("Words are bad");
+	for(int i = 0; i < 10; i++){
 	
-	if(i == 3){
+	if(i == 4){
 	System.out.println("Words are good");} 
-	else if(i == 6){
+	else if(i == 8){
 	System.out.println("More Words");}
+	else{
+	System.out.println("Words");}
 	}
     }
 }
